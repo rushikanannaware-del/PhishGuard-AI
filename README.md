@@ -1,6 +1,6 @@
 # PhishGuard AI — Phishing URL Classification
 
-**Author:** Mahesh Nannaware  
+**Author:** Rushika Nannaware  
 **Project type:** Cybersecurity / Machine Learning
 
 ## Overview
